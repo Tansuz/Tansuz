@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **TS/Docker**
 
-- 👨‍💻 All of my projects are available at [https://toikari.me](https://toikari.me)
-
 - ⚡ Fun fact **Learning how to code is slowly becoming like learning how to write**
 
 <h3 align="left">Connect with me:</h3>
